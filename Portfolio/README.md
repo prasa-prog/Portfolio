@@ -88,4 +88,4 @@ Currently working as **Management Trainee – Executive** at **Star Garments (Pv
 ## 🔹 Contact
 📧 [Email](mailto:pm999130@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/wishma-prasad-396334212/) | 📍 Sri Lanka  
 
-📄 [Download my CV (PDF)](./Wishma_Prasad_CV.pdf)
+📄 [Download my CV (PDF)](Portfolio/wishma prasad CV.pdf)

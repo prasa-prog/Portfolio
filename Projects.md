@@ -8,7 +8,8 @@ This document highlights my **academic** and **professional** projects that inte
 
 ### 1. Biomimicry Arduino Project (Owner, Developer)  
 - Designed a system to **mimic natural frequency patterns** for automation and multiple use cases.  
-- Integrated **Arduino programming** and electronics for real-world applications.  
+- Integrated **Arduino programming** and electronics for real-world applications.
+- Available at : https://github.com/prasa-prog/Bio-mimicry-01
 
 ### 2. Library Management System (Python, Group Project)  
 - Developed a **desktop-based system** for managing library operations.  

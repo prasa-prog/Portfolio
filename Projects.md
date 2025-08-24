@@ -13,8 +13,8 @@ This document highlights my **academic** and **professional** projects that inte
 
 ### 2. Library Management System (Python, Group Project)  
 - Developed a **desktop-based system** for managing library operations.  
-- Implemented book tracking, user management, and reporting.  
-
+- Implemented book tracking, user management, and reporting.
+ 
 ### 3. Gym Registration System (C#, Group Project)  
 - Built a **C# application** for gym member registration and payment tracking.  
 - Designed an easy-to-use interface with data storage integration.  
@@ -29,12 +29,13 @@ This document highlights my **academic** and **professional** projects that inte
 
 ---
 
-## 🔹 Professional Projects
+## 🔹 Professional Projects/mini projects
 
 ### 1. Star Similarity Project (Project Lead, Analyst)  
 - Analyzed **product variations** and improved planning efficiency.  
 - Achieved an **11% production day savings** for a factory module.  
-
+- Available at : https://github.com/prasa-prog/Product-Similarity
+  
 ### 2. Cutting Department Productivity Enhancement (Project Lead, Analyst)  
 - Conducted **value stream analysis** of the cutting department.  
 - Delivered recommendations that improved productivity by **10%**.  
